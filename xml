@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am brunolima2023 on github.
+  * I am brunolima2023 (https://keybase.io/brunolima2023) on keybase.
+  * I have a public key ASBpDJ_Szk81APDd54o1f1GoGlIY520o8PNS8Be9fRjNAwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120690c9fd2ce4f3500f0dde78a357f51a81a5218e76d28f0f352f017bd7d18cd030a",
+      "host": "keybase.io",
+      "kid": "0120690c9fd2ce4f3500f0dde78a357f51a81a5218e76d28f0f352f017bd7d18cd030a",
+      "uid": "c5ddb1e836cf333c327be9709f3baf19",
+      "username": "brunolima2023"
+    },
+    "merkle_root": {
+      "ctime": 1568116498,
+      "hash": "2e0b5d1ee263a413425e00806c636c3c3e242d404f551baad2fc7cdd5f24293db539a7c42b2c7448b32b43520330a5c36b8a686c3a7055da08e97353ce952ab9",
+      "hash_meta": "2a26baacf0bc3e54eed027415229a2e958ecd696bf69aeabc775b7fca8ec35b8",
+      "seqno": 6392176
+    },
+    "service": {
+      "entropy": "KJQevEyQJoxfpYr6p0EdTKqS",
+      "name": "github",
+      "username": "brunolima2023"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568116582,
+  "expire_in": 504576000,
+  "prev": "7c40e25882a70bd04369ce3feef573c976f154dc1735431dc25082380c2ed72b",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASBpDJ_Szk81APDd54o1f1GoGlIY520o8PNS8Be9fRjNAwo](https://keybase.io/brunolima2023), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaQyf0s5PNQDw3eeKNX9RqBpSGOdtKPDzUvAXvX0YzQMKp3BheWxvYWTESpcCDcQgfEDiWIKnC9BDac4/7vVzyXbxVNwXNUMdwlCCOAwu1yvEIPVqvNZMzdjrUHaR1XM4GUgpMdf+/g+CKK7z/QlH0mpyAgHCo3NpZ8RA4c9tz22UceccEg6D7XN+uCfgYDDBcbqoUB7rTNVytROuDsiil6J4iOR/BXKiAw5ikxRIi+FmLCg8APWEv5iiCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFXcMHqRcbCTqIby431WBEhG/SvjnDV6Cg0fPePa3I/mo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/brunolima2023
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id brunolima2023
+```
